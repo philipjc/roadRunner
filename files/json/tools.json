@@ -1,0 +1,10 @@
+{
+  "tools": {
+    "hammer": true,
+    "wire": true,
+    "dynamite": true,
+    "big rock": true,
+    "bait": true,
+    "spade": true
+  }
+}
